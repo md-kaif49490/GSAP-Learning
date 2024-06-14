@@ -1,0 +1,48 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+html,body{
+height: 100%;
+width: 100%;
+}
+
+#box{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(164, 62, 62);
+}
+
+#page1{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(127, 208, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(53, 200, 240);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(11, 108, 153);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page4{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(4, 65, 93);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
